@@ -1,0 +1,1 @@
+s3://finalbucket7/books.jpg
